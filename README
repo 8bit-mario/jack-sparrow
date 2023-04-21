@@ -1,0 +1,7 @@
+= JackSparrow Theme
+How to install
+1. clone this repository to wp-theme folder inside wordpress
+git clone https://github.com/8bit-mario/jack-sparrow.git
+
+Update
+git pull
